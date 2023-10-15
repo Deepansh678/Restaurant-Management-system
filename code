@@ -1,5 +1,4 @@
 from tkinter import *
-#  Copyright : @python.coder_
 import time
 import random
 from datetime import date
@@ -140,7 +139,7 @@ root.geometry("1000x700")
 root.minsize(1000,700)
 root.maxsize(1000,700)
 heading1=Label(root,text="Hotel Management",font="arial 30 bold",fg="#fc5a03")
-heading2=Label(root,text="@python.coder_ Restaurant ",font="arial 18 bold",fg="#fc5a03")
+heading2=Label(root,text="Deepansh_Restaurant ",font="arial 18 bold",fg="#fc5a03")
 frame1=Frame(root,height="420",width="330",bd=10,bg="#ED420B",highlightthickness=1,relief=SUNKEN)
 frame1.place(x=40,y=140)
 frame2=Frame(root,height="420",width="330",bd=10,bg="#33A9CE",highlightthickness=1,relief=SUNKEN)
